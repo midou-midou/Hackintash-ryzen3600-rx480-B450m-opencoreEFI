@@ -8,4 +8,6 @@ Opencore 0.7.0 的EFI
 > wireless无线网卡：高通 AR 9565  
 > Ethernet有线网卡：Realtek Gbyte  
 > 硬盘NVME：西数 SN550  
-> 硬盘SSD：安钛克 tigo 250G
+> 硬盘SSD：安钛克 tigo 250G  
+
+# PS. 如果需要安装双系统，请先安装macOS，之后再安装Windows Please install macOS first
